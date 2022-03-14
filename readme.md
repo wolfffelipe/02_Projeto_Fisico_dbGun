@@ -1,4 +1,4 @@
-# 🎓 Segundo Projeto da Pós Graduação MIT em Engenharia de Banco de Dados 
+# 🎓 Projeto de nivelamento da Pós Graduação MIT em Engenharia de Banco de Dados 
 
 ## ✍ **Modelagem**
 
